@@ -52,18 +52,6 @@
 
 ---
 
-<h2 align="center">📌 Pinned Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/JeremyNg77/project-1">🔧 Project 1</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/JeremyNg77/project-2">📱 Project 2</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/JeremyNg77/project-3">🚀 Project 3</a>
-</p>
-
-<!-- Replace above links with your actual repos -->
-
----
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">

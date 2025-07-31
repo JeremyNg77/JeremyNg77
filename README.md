@@ -63,11 +63,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="48" height="48" alt="After Effects"/>
         <br>After Effects
       </td>
-      <td align="center" width="96">
-        <!-- No icon for SolidWorks in Devicon -->
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/SolidWorks_Logo.svg" width="48" height="48" alt="SolidWorks"/>
-        <br>SolidWorks
-      </td>
     </tr>
   </table>
 </div>

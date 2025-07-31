@@ -79,6 +79,29 @@
 
 ---
 
+<h1 align="center">🌐 Languages</h1>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/english/english-original.svg" width="48" height="48" alt="English"/>
+        <br>English<br>(Fluent)
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/malay/malay-original.svg" width="48" height="48" alt="Malay"/>
+        <br>Malay<br>(Fluent)
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chinese/chinese-original.svg" width="48" height="48" alt="Chinese"/>
+        <br>Chinese<br>(Basic)
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">

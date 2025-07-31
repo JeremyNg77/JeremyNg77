@@ -12,7 +12,7 @@
 
 ---
 
-# 💻 Technical Skills
+<h1 align="center">💻 Technical Skills</h1>
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
@@ -50,21 +50,51 @@
 <br><br>
 </div>
 
-<p align="center">
-<a href="https://github.com/JeremyNg77?tab=repositories">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=JeremyNg77&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Jeremy Ng's github-readme-stats"/>
-</a>
-<a href="https://github.com/JeremyNg77?tab=stars">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JeremyNg77&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Jeremy Ng's github-readme-streak-stats"/>
-</a>
-</p>
+---
 
-<a href=""><img src="./assets/colored.png" width="100%" alt=""/></a>
+<h2 align="center">📌 Pinned Projects</h2>
 
 <p align="center">
-    <a href="https://wakatime.com/JeremyNg77">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeremyNg77&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
+  <a href="https://github.com/JeremyNg77/project-1">🔧 Project 1</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/JeremyNg77/project-2">📱 Project 2</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/JeremyNg77/project-3">🚀 Project 3</a>
 </p>
 
-<img src="./assets/ssr-contributions.svg" alt="Metrics" width="100%">
+<!-- Replace above links with your actual repos -->
+
+---
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JeremyNg77&theme=onestar&no-frame=true&column=3&row=2" width="70%" />
+</p>
+
+---
+
+<h2 align="center">⏱️ WakaTime Coding Stats</h2>
+
+<p align="center">
+  <a href="https://wakatime.com/@JeremyNg77">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JeremyNg77&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=8&range=last_7_days" width="65%" alt="WakaTime stats"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">📈 GitHub Stats & Contributions</h2>
+
+<p align="center">
+  <a href="https://github.com/JeremyNg77?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=JeremyNg77&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" />
+  </a>
+  <a href="https://github.com/JeremyNg77?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=JeremyNg77&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@JeremyNg77">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeremyNg77&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph" width="95%" />
+  </a>
+</p>

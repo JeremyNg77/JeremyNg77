@@ -71,13 +71,16 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <span style="font-size:48px;">🇬🇧</span><br>English<br>(Fluent)
+        <img src="https://flagcdn.com/gb.svg" width="48" height="36" alt="English Flag"/><br>
+        English<br>(Native)
       </td>
       <td align="center" width="96">
-        <span style="font-size:48px;">🇲🇾</span><br>Malay<br>(Fluent)
+        <img src="https://flagcdn.com/my.svg" width="48" height="36" alt="Malay Flag"/><br>
+        Malay<br>(Fluent)
       </td>
       <td align="center" width="96">
-        <span style="font-size:48px;">🇨🇳</span><br>Chinese<br>(Basic)
+        <img src="https://flagcdn.com/cn.svg" width="48" height="36" alt="Chinese Flag"/><br>
+        Chinese<br>(Fluent)
       </td>
     </tr>
   </table>

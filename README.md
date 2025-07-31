@@ -17,6 +17,7 @@
 <div align="center">
   <table>
     <tr>
+      <!-- Top row: 6 items -->
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="48" height="48" alt="After Effects"/>
         <br>After Effects
@@ -41,12 +42,14 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
         <br>Java
       </td>
+    </tr>
+    <tr>
+      <!-- Bottom row: 5 items centered -->
+      <td></td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
         <br>JavaScript
       </td>
-    </tr>
-    <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB"/>
         <br>MATLAB
@@ -63,16 +66,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
         <br>VS Code
       </td>
-      <!-- You may add new skills below to keep balance -->
-      <td align="center" width="96">
-        <!-- Placeholder for future skills -->
-      </td>
-      <td align="center" width="96">
-        <!-- Placeholder for future skills -->
-      </td>
-      <td align="center" width="96">
-        <!-- Placeholder for future skills -->
-      </td>
+      <td></td>
     </tr>
   </table>
 </div>

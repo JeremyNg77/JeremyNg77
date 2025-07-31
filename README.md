@@ -38,11 +38,11 @@
         <br>Illustrator
       </td>
     </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
         <br>JavaScript
       </td>
-    <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB"/>
         <br>MATLAB
@@ -59,12 +59,6 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
         <br>VS Code
       </td>
-      <td align="center" width="96">
-        <!-- Placeholder -->
-      </td>
-      <td align="center" width="96">
-        <!-- Placeholder -->
-      </td>
     </tr>
   </table>
 </div>
@@ -77,16 +71,13 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg" width="48" height="48" alt="English Flag"/>
-        <br>English<br>(Native)
+        <span style="font-size:48px;">🇬🇧</span><br>English<br>(Fluent)
       </td>
       <td align="center" width="96">
-        <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1fe.svg" width="48" height="48" alt="Malaysia Flag"/>
-        <br>Malay<br>(Fluent)
+        <span style="font-size:48px;">🇲🇾</span><br>Malay<br>(Fluent)
       </td>
       <td align="center" width="96">
-        <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="48" height="48" alt="China Flag"/>
-        <br>Chinese<br>(Fluent)
+        <span style="font-size:48px;">🇨🇳</span><br>Chinese<br>(Basic)
       </td>
     </tr>
   </table>

@@ -37,11 +37,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" width="48" height="48" alt="Illustrator"/>
         <br>Illustrator
       </td>
+    </tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
         <br>JavaScript
       </td>
-    </tr>
     <tr>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB"/>
@@ -78,7 +78,7 @@
     <tr>
       <td align="center" width="96">
         <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg" width="48" height="48" alt="English Flag"/>
-        <br>English<br>(Fluent)
+        <br>English<br>(Native)
       </td>
       <td align="center" width="96">
         <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1fe.svg" width="48" height="48" alt="Malaysia Flag"/>
@@ -86,7 +86,7 @@
       </td>
       <td align="center" width="96">
         <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="48" height="48" alt="China Flag"/>
-        <br>Chinese<br>(Basic)
+        <br>Chinese<br>(Fluent)
       </td>
     </tr>
   </table>

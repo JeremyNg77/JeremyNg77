@@ -72,13 +72,7 @@
 
 ---
 
-<h2 align="center">⏱️ WakaTime Coding Stats</h2>
-
-<p align="center">
-  <a href="https://wakatime.com/@JeremyNg77">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JeremyNg77&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=8&range=last_7_days" width="65%" alt="WakaTime stats"/>
-  </a>
-</p>
+<img align="center" style="width:100%" src="https://github-readme-streak-stats.herokuapp.com/?user=JeremyNg77&count_private=true&theme=radical" alt="Jas-Script" />
 
 ---
 

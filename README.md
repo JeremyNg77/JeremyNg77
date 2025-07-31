@@ -14,8 +14,6 @@
 
 <h1 align="center">💻 Technical Skills</h1>
 
-<h1 align="center">💻 Technical Skills</h1>
-
 <div align="center">
   <table>
     <tr>

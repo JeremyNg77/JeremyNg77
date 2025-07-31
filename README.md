@@ -96,7 +96,7 @@
     <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="linkedin.com/in/jeremy-ng-sheng-wey/">
+  <a href="https://linkedin.com/in/jeremy-ng-sheng-wey/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>

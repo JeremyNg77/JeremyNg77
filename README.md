@@ -38,10 +38,6 @@
         <br>Illustrator
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
-        <br>Java
-      </td>
-      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
         <br>JavaScript
       </td>
@@ -63,15 +59,11 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
         <br>VS Code
       </td>
-      <!-- You may add new skills below to keep balance -->
       <td align="center" width="96">
-        <!-- Placeholder for future skills -->
+        <!-- Placeholder -->
       </td>
       <td align="center" width="96">
-        <!-- Placeholder for future skills -->
-      </td>
-      <td align="center" width="96">
-        <!-- Placeholder for future skills -->
+        <!-- Placeholder -->
       </td>
     </tr>
   </table>
@@ -85,15 +77,15 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/english/english-original.svg" width="48" height="48" alt="English"/>
+        <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1ec-1f1e7.svg" width="48" height="48" alt="English Flag"/>
         <br>English<br>(Fluent)
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/malay/malay-original.svg" width="48" height="48" alt="Malay"/>
+        <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1f2-1f1fe.svg" width="48" height="48" alt="Malaysia Flag"/>
         <br>Malay<br>(Fluent)
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chinese/chinese-original.svg" width="48" height="48" alt="Chinese"/>
+        <img src="https://twemoji.maxcdn.com/v/latest/svg/1f1e8-1f1f3.svg" width="48" height="48" alt="China Flag"/>
         <br>Chinese<br>(Basic)
       </td>
     </tr>

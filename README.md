@@ -1,18 +1,18 @@
-<div align="center">
-  <img src="https://github.com/JeremyNg77/JeremyNg77/assets/136827046/0f2b5989-fd0d-4991-a8f5-57d2f24e31f9" alt="JEREMY">
-</div>
-
 <h1 align="center">Hey 👋, Who am I?</h1>
+
 <div>
-- 🔭 Full-stack developer designing and building scalable, high-performance web and mobile applications with proficiency in both frontend and backend<br/>
-- 🤖 Mastering deep learning and machine learning to create intelligent detection and generation models<br/>
-- 🌱 Learning new technologies and frameworks to stay up-to-date with the latest trends in the industry<br/>
-- 🔒 Learning Web3 DeFi, NFT, and blockchain technologies to build decentralized applications<br/>
+<ul>
+  <li>🎯 Methodical, results-oriented Mechanical Engineering student who is passionate about pioneering the future through design and innovation</li>
+  <li>🗣️ Strong leadership, communication, and presentation skills</li>
+  <li>🔍 Great attention to detail, precise and disciplined</li>
+  <li>🛠️ Possesses a wide range of technical and soft skills</li>
+  <li>💼 A valuable asset to any organisation seeking a driven and innovative individual</li>
+</ul>
 </div>
 
 ---
 
-# 💻 My favorite tools and technologies
+# 💻 Technical Skills
 
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">

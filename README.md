@@ -71,16 +71,19 @@
   <table>
     <tr>
       <td align="center" width="96">
-        <img src="https://flagcdn.com/gb.svg" width="48" height="36" alt="English Flag"/><br>
-        English<br>(Native)
+        <img src="https://flagcdn.com/gb.svg" width="48" height="48" alt="English Flag"
+             style="border-radius: 50%; border: 1px solid #ccc;" />
+        <br>English<br>(Native)
       </td>
       <td align="center" width="96">
-        <img src="https://flagcdn.com/my.svg" width="48" height="36" alt="Malay Flag"/><br>
-        Malay<br>(Fluent)
+        <img src="https://flagcdn.com/my.svg" width="48" height="48" alt="Malay Flag"
+             style="border-radius: 50%; border: 1px solid #ccc;" />
+        <br>Malay<br>(Fluent)
       </td>
       <td align="center" width="96">
-        <img src="https://flagcdn.com/cn.svg" width="48" height="36" alt="Chinese Flag"/><br>
-        Chinese<br>(Fluent)
+        <img src="https://flagcdn.com/cn.svg" width="48" height="48" alt="Chinese Flag"
+             style="border-radius: 50%; border: 1px solid #ccc;" />
+        <br>Chinese<br>(Fluent)
       </td>
     </tr>
   </table>

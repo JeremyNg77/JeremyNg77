@@ -86,3 +86,17 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeremyNg77&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contribution%20Graph" width="95%" />
   </a>
 </p>
+
+---
+
+<h2 align="center">📫 Contact Me</h2>
+
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yourlinkedin/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>

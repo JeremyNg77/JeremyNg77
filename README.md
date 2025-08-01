@@ -27,10 +27,21 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="48" height="48" alt="Photoshop"/><br>Photoshop
       </td>
       <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/><br>C
+      </td>
+      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/><br>C++
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C"/><br>C
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br>JavaScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB"/><br>MATLAB
       </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino"/><br>Arduino
@@ -41,17 +52,11 @@
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48" alt="Canva"/><br>Canva
       </td>
+      <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu"/><br>Ubuntu
+      </td>
     </tr>
     <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/><br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB"/><br>MATLAB
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python"/><br>Python
-      </td>
       <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/><br>Git
       </td>
@@ -62,10 +67,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/><br>VS Code
       </td>
       <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="48" height="48" alt="Ubuntu"/><br>Ubuntu
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="48" height="48" alt="Stack Overflow"/><br>Stack Overflow
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/stackoverflow.svg" width="48" height="48" alt="Stack Overflow"/><br>Stack Overflow
       </td>
     </tr>
   </table>
@@ -79,17 +81,30 @@
   <table>
     <tr>
       <td align="center" width="96">
-        🇬🇧<br>English<br>(Fluent)
+        <img src="https://flagcdn.com/w80/gb.png" width="40" height="40" style="border-radius: 50%;" alt="UK Flag"/><br>English<br>(Fluent)
       </td>
       <td align="center" width="96">
-        🇲🇾<br>Malay<br>(Fluent)
+        <img src="https://flagcdn.com/w80/my.png" width="40" height="40" style="border-radius: 50%;" alt="Malaysia Flag"/><br>Malay<br>(Fluent)
       </td>
       <td align="center" width="96">
-        🇨🇳<br>Chinese<br>(Basic)
+        <img src="https://flagcdn.com/w80/cn.png" width="40" height="40" style="border-radius: 50%;" alt="China Flag"/><br>Chinese<br>(Basic)
       </td>
     </tr>
   </table>
 </div>
+
+---
+
+<h2 align="center">📌 Pinned Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/JeremyNg77">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeremyNg77&repo=YOUR_REPO_NAME1&theme=gotham" />
+  </a>
+  <a href="https://github.com/JeremyNg77">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JeremyNg77&repo=YOUR_REPO_NAME2&theme=gotham" />
+  </a>
+</p>
 
 ---
 

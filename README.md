@@ -1,4 +1,4 @@
-<h1 align="center">I am Jeremy.</h1>
+<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/2bc74753-f807-4723-9143-fe6aa0bcce83" /><h1 align="center">I am Jeremy.</h1>
 
 <div>
 <ul>
@@ -108,9 +108,9 @@
 <h2 align="center">⏱️ WakaTime Coding Stats</h2>
 
 <p align="center">
-  <a href="https://wakatime.com/@JeremyNg77">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JeremyNg77&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=8&range=last_7_days" width="65%" alt="WakaTime stats"/>
-  </a>
+  <a href="https://wakatime.com/@JeremyNg77">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JeremyNg77&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=8&v=1" width="65%" alt="WakaTime stats"/>
+  </a>
 </p>
 
 ---

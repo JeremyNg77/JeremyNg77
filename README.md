@@ -1,4 +1,4 @@
-<img width="1918" height="907" alt="image" src="https://github.com/user-attachments/assets/2bc74753-f807-4723-9143-fe6aa0bcce83" /><h1 align="center">I am Jeremy.</h1>
+<h1 align="center">I am Jeremy.</h1>
 
 <div>
 <ul>
